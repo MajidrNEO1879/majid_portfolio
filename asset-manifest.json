@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/majid-rezaei-portfolio/static/css/main.a07a9e58.css",
+    "main.js": "/majid-rezaei-portfolio/static/js/main.cf71463b.js",
+    "static/js/453.acca0757.chunk.js": "/majid-rezaei-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/gmail.png": "/majid-rezaei-portfolio/static/media/gmail.00cad07fc47e95dab520.png",
+    "static/media/mr.jpg": "/majid-rezaei-portfolio/static/media/mr.63b29a949cc9f753788d.jpg",
+    "static/media/github.jpeg": "/majid-rezaei-portfolio/static/media/github.345dc4a21070f9083ca7.jpeg",
+    "index.html": "/majid-rezaei-portfolio/index.html",
+    "main.a07a9e58.css.map": "/majid-rezaei-portfolio/static/css/main.a07a9e58.css.map",
+    "main.cf71463b.js.map": "/majid-rezaei-portfolio/static/js/main.cf71463b.js.map",
+    "453.acca0757.chunk.js.map": "/majid-rezaei-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a07a9e58.css",
+    "static/js/main.cf71463b.js"
+  ]
+}
